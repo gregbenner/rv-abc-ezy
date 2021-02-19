@@ -21,4 +21,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 
 
-Next steps would be dynamic pagination and search functions and individual routes via <nuxt-child> for shareable bookmarkable cats.
+Next steps would be dynamic pagination and search functions and individual routes via `<nuxt-child>` for shareable bookmarkable cats.
